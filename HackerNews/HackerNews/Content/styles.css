@@ -1,0 +1,41 @@
+﻿body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+}
+
+.header {
+    background-color: #ff6600;
+    width: 80%;
+    height: 10px;
+    padding: 7px;
+}
+
+.nav {
+    display: inline;
+    width: 300px;
+}
+
+.nav li {
+    display: inline;
+}
+
+.login {
+    float: right;
+    margin-right: 5px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.brand {
+    display: inline-block;
+    width: auto;
+    margin-right: 5px;
+}
+
+.logo {
+    border:1px solid #ffffff;
+}
+
+
