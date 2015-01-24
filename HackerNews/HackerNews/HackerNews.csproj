@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\images\grayarrow.gif" />
     <Content Include="Content\images\y18.gif" />
     <Content Include="Content\reset.css" />
     <Content Include="Content\styles.css" />
