@@ -3,15 +3,26 @@
     font-size: 10pt;
 }
 
+a {
+    text-decoration: none;
+}
+
+div {
+    background-color: 
+}
+
 .header {
     background-color: #ff6600;
-    width: 80%;
+    width: 100%;
+    position: relative;
+}
+
+.header-padding {
     padding: 2px;
 }
 
 .nav {
     display: inline;
-    width: 300px;
 }
 
 .nav li {
@@ -19,9 +30,9 @@
 }
 
 .login {
-    position: relative;
-    display: inline-block;
-
+    position: absolute;
+    margin-top: 3px;
+    right: 8px;
 }
 
 .bold {
@@ -39,9 +50,90 @@
     vertical-align: middle;
 }
 
-.wrapper{
-   width:1349px;
-   margin:0 auto;
+.wrapper {
+   width:83%;
+   margin:8px auto;
 }
+
+.content {
+    background-color: #f6f6ef;
+    padding-top: 12px;
+    padding-left: 10px;
+    padding-bottom: 12px;
+}
+.upvote {
+    background-image: url('images/grayarrow.gif');
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+/*ol li {
+    list-style-type: decimal;
+    list-style-position: inside;
+    margin-bottom: 10px;
+}*/
+
+.meta-text {
+    font-size: 8pt;
+    color: #828282;
+}
+
+.news-title {
+    display: inline-block;
+}
+
+.news-item a {
+    font-size: 8pt;
+    color: #828282;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.news-item-number {
+    vertical-align: top;
+}
+
+.news-item {
+    margin-bottom: 10px;
+}
+
+.more {
+    margin-left: 33px;
+}
+
+.more a {
+    color: #828282;
+}
+
+.more a:hover{
+    text-decoration: none;
+}
+
+.footer {
+    border-top: 2px solid #ff6600;
+    background-color: #f6f6ef;
+    text-align: center;
+}
+
+.footerlinks {
+    padding: 15px;
+}
+
+.footerlinks a {
+    font-size: 8pt;
+}
+
+.search {
+    color: #828282;
+    padding-bottom: 15px;
+}
+
+
+
+
 
 
