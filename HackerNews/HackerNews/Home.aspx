@@ -62,6 +62,39 @@
                     </div>
                 </div>
             </div>
+            <div class="news-item">
+            <span class="news-item-number">3.</span>
+            <div class="upvote" title="upvote"></div>
+            <div class="news-title">
+                LSD: The Geek's Wonder Drug? (wired.com)
+                <span class="meta-text">(eff.org)</span>
+                <div class="meta-text stats">
+                    1092 points by radley 20 hours ago | <a href="comments">247 comments</a>
+                </div>
+            </div>
+            </div>
+              <div class="news-item">
+                <span class="news-item-number">4.</span>
+                <div class="upvote" title="upvote"></div>
+                <div class="news-title">
+                    Delft University expects to reduce the price of graphene by a factor of thousand (tudelft.nl)
+                    <span class="meta-text">(eff.org)</span>
+                    <div class="meta-text stats">
+                        1092 points by radley 20 hours ago | <a href="comments">247 comments</a>
+                    </div>
+                </div>
+            </div>
+              <div class="news-item">
+                <span class="news-item-number">5.</span>
+                <div class="upvote" title="upvote"></div>
+                <div class="news-title">
+                    Hipster Logo Generator (hipsterlogogenerator.com)
+                    <span class="meta-text">(eff.org)</span>
+                    <div class="meta-text stats">
+                        1092 points by radley 20 hours ago | <a href="comments">247 comments</a>
+                    </div>
+                </div>
+            </div>
             <div class="more"><a href="#">More..</a></div>
         </div>
         <div class="footer">
